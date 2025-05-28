@@ -2,7 +2,7 @@
 <h3 align="center">Cloud curious| DevOps Driven</h3>
 <img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
 
-- 🌱 I’m currently learning **AWS,Gitlab,Github Action,Kubernetes,Terrform,Docker**
+- 🌱 I’m currently learning **AWS,Gitlab,Github Action,Kubernetes,Terrform,Docker **
 
 - 📫 How to reach me **sathvik366@gmail.com**
 
