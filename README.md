@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathvik Kc</h1>
 <h3 align="center">Cloud curious| DevOps Driven</h3>
-
+<img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
 
 - 🌱 I’m currently learning **AWS,Gitlab,Github Action,Kubernetes,Terrform,Docker**
 
